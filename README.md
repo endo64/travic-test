@@ -1,2 +1,2 @@
-# travic-test
+# travis-test
 Travis Testing Repo
