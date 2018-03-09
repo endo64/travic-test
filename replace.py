@@ -3,7 +3,7 @@ import sys
 
 publichPath = './public'
 
-with open('./analytics/ga_code.txt', 'r') as file :
+with open('./ga_code.txt', 'r') as file :
     gaCode = file.read()
 
 def replaceFile(fileToRepaced, textToReplace):
